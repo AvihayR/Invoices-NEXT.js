@@ -70,7 +70,7 @@ export default function LoginForm() {
             </>
           )}
         </div>
-        <span className='text-xs'>Try: user@nextmail.com, and "123456".</span>
+        <span className="text-xs">Try: user@nextmail.com, and 123456.</span>
       </div>
     </form>
   )
